@@ -1,1 +1,13 @@
 # 12WeeksAWSJourney
+## [Week1](wk1/README.md)
+## [Week2](wk2/README.md)
+## [Week3](wk3/README.md)
+## [Week4](wk4/README.md)
+## [Week5](wk5/README.md)
+## [Week6](wk6/README.md)
+## [Week7](wk7/README.md)
+## [Week8](wk8/README.md)
+## [Week9](wk9/README.md)
+## [Week10](wk10/README.md)
+## [Week11](wk11/README.md)
+## [Week12](wk12/README.md)
