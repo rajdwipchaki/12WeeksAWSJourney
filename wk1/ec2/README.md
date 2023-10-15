@@ -1,5 +1,5 @@
 # EC2 (Elastic Compute Cloud)
-![alt text]
+![alt text](https://github.com/rajdwipchaki/12WeeksAWSJourney/blob/main/wk1/ec2/images/ec2-one-pager.jpg)
 
 # EC2 Starter
 - [Step 1: Launch an instance](#launchec2)
